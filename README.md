@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DiamondMind
-- 👀 I’m interested in Game Development 
+- 👋 Hi, I’m Oluwaseun
+- 👀 I’m a Unity game developer 
 - 🌱 I’m currently learning Game Design
 - 💞️ I’m looking to collaborate on Awesome Projects
 - 📫 How to reach me rabiuoluwaseundev@gmail.com
