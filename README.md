@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Oluwaseun
-- 👀 I’m a Unity game developer 
-- 🌱 I’m currently learning Game Design
-- 💞️ I’m looking to work on Awesome Projects
-- 📫 How to reach me rabiuoluwaseundev@gmail.com
+🎮 Game Developer | Unity & C# Enthusiast 🚀
 
-<!---
-DiamondMind/DiamondMind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm Rabiu Oluwaseun, a dedicated game developer with a passion for creating immersive experiences in Unity. I thrive on turning ideas into interactive adventures that captivate players.
+
+💼 Currently working on exciting game projects and continuously learning to push the boundaries of game development.
+
+🕹️ Skill Set:
+- Unity Engine
+- C# Programming
+- 2D & 3D Game Development
+- Gameplay Mechanics
+
+🌟 Let's connect, collaborate, and level up in the world of game development! Feel free to explore my repositories, and if you have any questions or exciting game ideas, drop me a message. 📩
+
+📫 Contact: [rabiuoluwaseundev@gmail.com]
