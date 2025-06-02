@@ -27,5 +27,6 @@ Check out my portfolio to see a collection of my personal work developed in my f
 
 I'm always open to collaborating, learning, or just talking about game development.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/oluwaseun-rabiu/)  
 - 📧 **Email**: rabiuoluwaseundev@gmail.com  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/oluwaseun-rabiu/)  
+- ▶️ [YouTube Channel](https://www.youtube.com/@Diamondmind_Gamedev)  
