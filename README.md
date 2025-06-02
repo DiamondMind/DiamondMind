@@ -1,15 +1,31 @@
-🎮 Game Developer | Unity & C# Enthusiast 🚀
+# 👋 Hi, I'm Oluwaseun
 
-👋 Hi there! I'm Rabiu Oluwaseun, a dedicated game developer with a passion for creating immersive experiences in Unity. I thrive on turning ideas into interactive adventures that captivate players.
+🎮 I'm a **Unity Game Developer** with passion for simulating real-world systems through engaging game mechanics and systems design.
 
-💼 Currently working on exciting game projects and continuously learning to push the boundaries of game development.
+---
 
-🕹️ Skill Set:
-- Unity Engine
-- C# Programming
-- 2D & 3D Game Development
-- Gameplay Mechanics
+## 🔧 Tech & Tools I Use
 
-🌟 Let's connect, collaborate, and level up in the world of game development! Feel free to explore my repositories, and if you have any questions or exciting game ideas, drop me a message. 📩
+- 🧠 C# | Unity Engine  
+- 🎨 2D/3D Game Development  
+- 🌐 Cross-Platform Deployment  
+- 🧪 Git & GitHub for Version Control  
+- 🛠️ Visual Studio IDE  
+- 📋 Trello & Jira for collaboration and project management  
 
-📫 Contact: [rabiuoluwaseundev@gmail.com]
+---
+
+## 🚀 Projects & Portfolio
+
+Check out my portfolio to see a collection of my personal work developed in my free time. These include full games, gameplay prototypes, systems, and tools. I enjoy building both complete experiences and the core mechanics that power them.
+
+🔗 **Portfolio**: [Website](https://rabiuoluwaseun.wixstudio.com/portfolio)  
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating, learning, or just talking about game development.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/oluwaseun-rabiu/)  
+- 📧 **Email**: rabiuoluwaseundev@gmail.com  
